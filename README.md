@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @4kaveree3
-- 👀 I’m interested in cooking 👩🏼‍🍳
-- 🌱 I’m currently learning Data Analytics
-- 😄 Pronouns: She/Her
+- 🤠 Hi, I’m @4kaveree3
+- 🧁 I’m interested in cooking and baking 👩🏼‍🍳
+- 📊 I’m currently learning Data Analytics
+- 🖥 Connect with me here ➡️ www.linkedin.com/in/christina-avery-b61b03301
+- 👩🏼‍💼 Pronouns: She/Her
 - ⚡ Fun fact: All figs had a wasp die in them 🙀
 
 <!---
